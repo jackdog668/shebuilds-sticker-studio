@@ -3,11 +3,12 @@
  * Mirrored from shebuilds-digital. Keep in sync.
  */
 export const brand = {
-  name: "SheBuilds Pattern Generator",
+  name: "SheBuilds Sticker Studio",
   parent: "SheBuilds Digital",
-  tagline: "Seamless tiling patterns. Damask to deco.",
+  toolNoun: "Stickers",
+  tagline: "Coordinated sticker packs for Etsy printables.",
   subTagline:
-    "Vector-perfect, KDP-ready, and free forever. Make. Ship. Sell.",
+    "Build a sheet that sells. No login, no watermark.",
   links: {
     home: "https://shebuildsdigital.com",
     school: "https://beacons.ai/dbcreations",
